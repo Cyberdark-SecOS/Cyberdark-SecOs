@@ -1,4 +1,10 @@
 ## Hi there 👋
+
+Ingeniero de sistemas con sólida experiencia en gestión de sistemas de información y soporte técnico de TI. Destrezas avanzadas en la implementación y optimización de infraestructuras tecnológicas, administración de bases de datos y soluciones de software empresarial. Experto en la evaluación y mitigación de riesgos tecnológicos, con un enfoque proactivo en la protección de activos de información.
+
+Estoy comprometido con la excelencia y la mejora continua, y estoy entusiasmado por contribuir al éxito de su empresa en la protección de sus activos digitales.
+
+
 :laptop:
 Here are some ideas to get you started:
 
