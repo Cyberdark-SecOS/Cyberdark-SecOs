@@ -5,17 +5,18 @@ Ingeniero de sistemas con sólida experiencia en gestión de sistemas de informa
 Estoy comprometido con la excelencia y la mejora continua, y estoy entusiasmado por contribuir al éxito de su empresa en la protección de sus activos digitales.
 
 
-:laptop:
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- 💻 I’m Securty Analyst
+- ⭐ Autodidact.
+- 🧑‍🎓 Systems Engineering
+- 🧑‍🏫 Content creator.
+- 📲 Software Developer
+
+   
+   
+
+
 
 <!--
 **Cyberdark-SecOS/Cyberdark-SecOs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
