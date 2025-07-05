@@ -1,27 +1,9 @@
 ## Hi there 👋
 
-Ingeniero de sistemas con sólida experiencia en gestión de sistemas de información y soporte técnico de TI. Destrezas avanzadas en la implementación y optimización de infraestructuras tecnológicas, administración de bases de datos y soluciones de software empresarial. Experto en la evaluación y mitigación de riesgos tecnológicos, con un enfoque proactivo en la protección de activos de información.
+# ¡Esta cuenta se ha trasladado!
 
-Estoy comprometido con la excelencia y la mejora continua, y estoy entusiasmado por contribuir al éxito de su empresa en la protección de sus activos digitales.
+Todo mi desarrollo, proyectos y contribuciones continúan en mi nuevo perfil principal.
 
+## 👉 [Haz clic aquí para ir a mi nuevo perfil](https://github.com/Cyberdark-Security) 👈
 
-
-
-
-- 💻 I’m Securty Analyst
-- ⭐ Autodidact.
-- 🧑‍🎓 Systems Engineering
-- 🧑‍🏫 Content creator.
-- 📲 Software Developer
-
-      
-
-   
-
-
-
-<!--
-**Cyberdark-SecOS/Cyberdark-SecOs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
--->
+Por favor, actualiza tus marcadores. ¡Gracias!
